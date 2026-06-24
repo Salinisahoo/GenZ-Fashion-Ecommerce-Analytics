@@ -119,6 +119,19 @@ requirements.txt
 
 ---
 
+
+
+
+
+## Key Business Insights
+
+- Generated ₹XX lakh in total revenue across 50,000 orders.
+- Premium Shoppers contributed the highest revenue.
+- Y2K fashion emerged as the top-performing style.
+- Mumbai and Bangalore were the highest-revenue cities.
+- The top 10 products accounted for a significant share of total sales.
+  
+
 ## 👩‍💻 Author
 
 **Shalini Sahu**
