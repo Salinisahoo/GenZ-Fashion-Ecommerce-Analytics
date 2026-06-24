@@ -102,3 +102,38 @@ README.md
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Database Schema
+
+![ER Diagram](Reports/ER_Diagram.png)
+
+---
+
+## Project Screenshots
+
+### KPI Dashboard
+
+![KPI Dashboard](Reports/kpi_dashboard.png)
+
+### Product Analysis
+
+![Product Analysis](Reports/product_analysis.png)
+
+### City Analysis
+
+![City Analysis](Reports/city_analysis.png)
+
+
+
+
+
