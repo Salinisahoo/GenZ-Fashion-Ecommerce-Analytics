@@ -1,0 +1,501 @@
+product_id,product_name,category,style,price,cost_price
+1,Boots,Footwear,Korean Fashion,958,549.7
+2,Oversized T-Shirt,Tops,Streetwear,1497,880.57
+3,Sunglasses,Accessories,Coquette,2131,1229.76
+4,Oversized T-Shirt,Tops,Minimalist,2750,1610.46
+5,Baby Tee,Tops,Minimalist,2665,1691.09
+6,Denim Jacket,Outerwear,Korean Fashion,1443,819.26
+7,Sunglasses,Accessories,Korean Fashion,2060,994.44
+8,Baggy Jeans,Bottoms,Coquette,3683,2030.15
+9,Oversized T-Shirt,Tops,Minimalist,2291,1083.09
+10,Jewellery,Accessories,Korean Fashion,1805,833.69
+11,Jewellery,Accessories,Coquette,836,584.51
+12,Jewellery,Accessories,Coquette,513,246.02
+13,Corset Top,Tops,Minimalist,3114,1843.5
+14,Crop Top,Tops,Y2K,1099,478.59
+15,Mini Skirt,Bottoms,Y2K,970,667.7
+16,Boots,Footwear,Y2K,1586,897.46
+17,Corset Top,Tops,Coquette,1507,844.51
+18,Hoodie,Outerwear,Korean Fashion,3553,1657.23
+19,Jewellery,Accessories,Y2K,2674,1221.98
+20,Denim Jacket,Outerwear,Korean Fashion,1648,988.84
+21,Handbag,Accessories,Minimalist,2933,1696.74
+22,Hoodie,Outerwear,Streetwear,2665,1343.93
+23,Corset Top,Tops,Y2K,2230,1419.37
+24,Baby Tee,Tops,Coquette,1270,525.5
+25,Boots,Footwear,Korean Fashion,816,471.36
+26,Hoodie,Outerwear,Coquette,469,315.8
+27,Boots,Footwear,Korean Fashion,796,451.64
+28,Mini Skirt,Bottoms,Coquette,2616,1568.27
+29,Boots,Footwear,Minimalist,2731,1134.83
+30,Baby Tee,Tops,Minimalist,2573,1393.62
+31,Baby Tee,Tops,Streetwear,861,507.39
+32,Boots,Footwear,Streetwear,3216,1404.95
+33,Denim Jacket,Outerwear,Coquette,1640,1123.25
+34,Baggy Jeans,Bottoms,Minimalist,2837,1933.25
+35,Boots,Footwear,Minimalist,3123,1570.5
+36,Sunglasses,Accessories,Streetwear,3751,2531.79
+37,Hoodie,Outerwear,Streetwear,1946,861.16
+38,Crop Top,Tops,Minimalist,1808,1054.76
+39,Sneakers,Footwear,Streetwear,1690,1148.75
+40,Cargo Pants,Bottoms,Coquette,910,530.25
+41,Cargo Pants,Bottoms,Coquette,3000,1782.76
+42,Sneakers,Footwear,Minimalist,1458,801.42
+43,Boots,Footwear,Coquette,2615,1272.39
+44,Hoodie,Outerwear,Streetwear,2859,1518.48
+45,Corset Top,Tops,Y2K,2587,1209.6
+46,Sneakers,Footwear,Coquette,960,466.79
+47,Cargo Pants,Bottoms,Korean Fashion,1079,658.68
+48,Baby Tee,Tops,Streetwear,3434,1630.26
+49,Cargo Pants,Bottoms,Minimalist,3958,1663.93
+50,Baggy Jeans,Bottoms,Minimalist,985,581.14
+51,Sneakers,Footwear,Korean Fashion,2142,1353.14
+52,Jewellery,Accessories,Korean Fashion,1408,824.03
+53,Denim Jacket,Outerwear,Streetwear,2668,1327.11
+54,Jewellery,Accessories,Coquette,1649,743.85
+55,Baggy Jeans,Bottoms,Minimalist,3918,1934.66
+56,Crop Top,Tops,Y2K,2402,1226.16
+57,Sneakers,Footwear,Y2K,623,312.0
+58,Jewellery,Accessories,Korean Fashion,592,301.32
+59,Crop Top,Tops,Coquette,2234,1197.94
+60,Sneakers,Footwear,Streetwear,3531,1800.23
+61,Hoodie,Outerwear,Korean Fashion,1617,859.45
+62,Hoodie,Outerwear,Minimalist,3812,2427.64
+63,Crop Top,Tops,Korean Fashion,2777,1360.96
+64,Sneakers,Footwear,Korean Fashion,1463,712.21
+65,Cargo Pants,Bottoms,Korean Fashion,1764,828.04
+66,Handbag,Accessories,Korean Fashion,1309,600.27
+67,Mini Skirt,Bottoms,Y2K,739,489.33
+68,Cargo Pants,Bottoms,Korean Fashion,3780,2242.65
+69,Mini Skirt,Bottoms,Korean Fashion,552,305.75
+70,Handbag,Accessories,Y2K,3725,2510.96
+71,Hoodie,Outerwear,Streetwear,2364,1330.91
+72,Crop Top,Tops,Streetwear,3787,2145.17
+73,Hoodie,Outerwear,Minimalist,1682,764.4
+74,Denim Jacket,Outerwear,Streetwear,1737,1128.22
+75,Hoodie,Outerwear,Korean Fashion,2375,1528.67
+76,Baby Tee,Tops,Y2K,2495,1420.55
+77,Denim Jacket,Outerwear,Coquette,3207,1743.04
+78,Denim Jacket,Outerwear,Minimalist,2432,1036.73
+79,Boots,Footwear,Minimalist,1064,614.72
+80,Handbag,Accessories,Minimalist,1670,780.47
+81,Baggy Jeans,Bottoms,Minimalist,2875,1646.45
+82,Boots,Footwear,Korean Fashion,1797,747.19
+83,Jewellery,Accessories,Y2K,3636,1486.03
+84,Baby Tee,Tops,Coquette,2579,1492.4
+85,Sneakers,Footwear,Streetwear,2764,1119.66
+86,Hoodie,Outerwear,Korean Fashion,788,481.69
+87,Sunglasses,Accessories,Coquette,3116,1734.43
+88,Baggy Jeans,Bottoms,Korean Fashion,1606,830.24
+89,Sunglasses,Accessories,Korean Fashion,2935,1835.33
+90,Boots,Footwear,Coquette,2193,989.5
+91,Boots,Footwear,Coquette,3000,1838.98
+92,Handbag,Accessories,Korean Fashion,2522,1570.12
+93,Corset Top,Tops,Korean Fashion,986,415.54
+94,Sneakers,Footwear,Korean Fashion,3757,1657.96
+95,Handbag,Accessories,Minimalist,3017,1757.5
+96,Oversized T-Shirt,Tops,Korean Fashion,457,309.79
+97,Sunglasses,Accessories,Y2K,1474,998.83
+98,Hoodie,Outerwear,Streetwear,2141,1175.2
+99,Sunglasses,Accessories,Streetwear,2542,1096.73
+100,Baggy Jeans,Bottoms,Korean Fashion,520,240.75
+101,Denim Jacket,Outerwear,Y2K,3876,2174.1
+102,Handbag,Accessories,Minimalist,2896,2015.1
+103,Handbag,Accessories,Coquette,1525,1042.46
+104,Handbag,Accessories,Korean Fashion,3762,1530.38
+105,Jewellery,Accessories,Y2K,3863,1738.65
+106,Boots,Footwear,Coquette,2762,1143.74
+107,Baggy Jeans,Bottoms,Minimalist,3927,2071.76
+108,Handbag,Accessories,Coquette,1304,843.6
+109,Crop Top,Tops,Y2K,3448,1901.15
+110,Sneakers,Footwear,Coquette,3548,2309.18
+111,Cargo Pants,Bottoms,Y2K,3156,1635.97
+112,Corset Top,Tops,Y2K,3623,2084.49
+113,Baggy Jeans,Bottoms,Minimalist,913,598.79
+114,Hoodie,Outerwear,Coquette,3046,2009.88
+115,Corset Top,Tops,Korean Fashion,3362,1775.06
+116,Crop Top,Tops,Y2K,3783,2120.38
+117,Jewellery,Accessories,Coquette,902,372.36
+118,Corset Top,Tops,Minimalist,1625,753.44
+119,Mini Skirt,Bottoms,Korean Fashion,684,459.47
+120,Sneakers,Footwear,Streetwear,1951,1223.78
+121,Sneakers,Footwear,Korean Fashion,1287,781.29
+122,Sunglasses,Accessories,Coquette,2726,1291.04
+123,Baggy Jeans,Bottoms,Coquette,646,394.9
+124,Sunglasses,Accessories,Minimalist,3978,2756.64
+125,Crop Top,Tops,Minimalist,2991,2053.88
+126,Cargo Pants,Bottoms,Minimalist,3064,1532.9
+127,Sneakers,Footwear,Streetwear,2794,1526.09
+128,Denim Jacket,Outerwear,Y2K,3634,2409.95
+129,Boots,Footwear,Korean Fashion,1407,728.64
+130,Corset Top,Tops,Streetwear,3832,2116.86
+131,Boots,Footwear,Streetwear,1143,613.88
+132,Jewellery,Accessories,Minimalist,2126,1486.14
+133,Sneakers,Footwear,Coquette,1804,1216.32
+134,Baggy Jeans,Bottoms,Coquette,735,377.29
+135,Hoodie,Outerwear,Minimalist,3745,2289.84
+136,Baby Tee,Tops,Minimalist,828,486.07
+137,Hoodie,Outerwear,Coquette,1770,992.3
+138,Boots,Footwear,Y2K,574,397.55
+139,Corset Top,Tops,Y2K,3140,1783.72
+140,Mini Skirt,Bottoms,Streetwear,1275,513.16
+141,Boots,Footwear,Korean Fashion,1253,659.91
+142,Crop Top,Tops,Coquette,2994,1430.38
+143,Sneakers,Footwear,Streetwear,2565,1606.96
+144,Sunglasses,Accessories,Y2K,3652,1692.43
+145,Sunglasses,Accessories,Minimalist,2754,1760.32
+146,Boots,Footwear,Korean Fashion,1464,890.92
+147,Corset Top,Tops,Coquette,1108,611.28
+148,Jewellery,Accessories,Coquette,2259,1422.22
+149,Hoodie,Outerwear,Coquette,3903,2388.92
+150,Jewellery,Accessories,Minimalist,2257,994.74
+151,Oversized T-Shirt,Tops,Y2K,1488,991.72
+152,Sneakers,Footwear,Minimalist,3630,1567.06
+153,Hoodie,Outerwear,Streetwear,1230,604.57
+154,Jewellery,Accessories,Y2K,3511,1954.98
+155,Sunglasses,Accessories,Minimalist,1240,700.0
+156,Hoodie,Outerwear,Minimalist,3398,1597.78
+157,Denim Jacket,Outerwear,Coquette,2240,905.36
+158,Corset Top,Tops,Y2K,3337,1343.24
+159,Handbag,Accessories,Minimalist,1828,837.04
+160,Corset Top,Tops,Streetwear,2631,1153.21
+161,Denim Jacket,Outerwear,Y2K,3624,1631.01
+162,Hoodie,Outerwear,Streetwear,3082,2016.29
+163,Baby Tee,Tops,Minimalist,3365,2004.57
+164,Sneakers,Footwear,Coquette,428,205.68
+165,Baby Tee,Tops,Minimalist,630,385.68
+166,Jewellery,Accessories,Streetwear,1513,650.46
+167,Mini Skirt,Bottoms,Streetwear,1919,1342.05
+168,Jewellery,Accessories,Minimalist,707,295.42
+169,Sunglasses,Accessories,Streetwear,803,551.2
+170,Mini Skirt,Bottoms,Y2K,2627,1801.16
+171,Jewellery,Accessories,Streetwear,3411,1935.42
+172,Boots,Footwear,Minimalist,3944,2681.88
+173,Cargo Pants,Bottoms,Minimalist,1125,575.95
+174,Hoodie,Outerwear,Coquette,1158,563.81
+175,Cargo Pants,Bottoms,Korean Fashion,2116,909.68
+176,Handbag,Accessories,Minimalist,544,249.0
+177,Sunglasses,Accessories,Streetwear,805,488.04
+178,Oversized T-Shirt,Tops,Minimalist,448,199.27
+179,Sneakers,Footwear,Streetwear,628,427.21
+180,Baby Tee,Tops,Streetwear,2834,1418.61
+181,Boots,Footwear,Korean Fashion,3354,1477.98
+182,Hoodie,Outerwear,Korean Fashion,2075,1426.63
+183,Baby Tee,Tops,Korean Fashion,1787,964.0
+184,Hoodie,Outerwear,Streetwear,644,276.1
+185,Mini Skirt,Bottoms,Y2K,3667,2086.25
+186,Oversized T-Shirt,Tops,Y2K,1284,750.63
+187,Cargo Pants,Bottoms,Streetwear,3079,1648.62
+188,Baby Tee,Tops,Minimalist,1235,694.27
+189,Handbag,Accessories,Y2K,3443,1903.27
+190,Boots,Footwear,Y2K,982,447.49
+191,Denim Jacket,Outerwear,Coquette,3963,2681.42
+192,Sneakers,Footwear,Streetwear,2430,1052.89
+193,Handbag,Accessories,Minimalist,2340,1521.63
+194,Denim Jacket,Outerwear,Streetwear,1402,732.01
+195,Mini Skirt,Bottoms,Streetwear,1599,1050.62
+196,Mini Skirt,Bottoms,Minimalist,989,423.15
+197,Corset Top,Tops,Korean Fashion,1801,818.24
+198,Hoodie,Outerwear,Y2K,980,672.58
+199,Sunglasses,Accessories,Minimalist,1648,1026.0
+200,Sneakers,Footwear,Streetwear,1938,1133.94
+201,Mini Skirt,Bottoms,Coquette,3026,1778.24
+202,Corset Top,Tops,Y2K,933,504.84
+203,Boots,Footwear,Streetwear,3348,1898.84
+204,Denim Jacket,Outerwear,Korean Fashion,3787,2301.03
+205,Sunglasses,Accessories,Streetwear,857,441.08
+206,Baby Tee,Tops,Coquette,2754,1653.02
+207,Jewellery,Accessories,Minimalist,3846,1643.3
+208,Sunglasses,Accessories,Korean Fashion,3501,2138.89
+209,Sunglasses,Accessories,Minimalist,1444,785.09
+210,Jewellery,Accessories,Minimalist,2124,930.46
+211,Sneakers,Footwear,Coquette,438,240.93
+212,Denim Jacket,Outerwear,Streetwear,1459,593.95
+213,Sneakers,Footwear,Y2K,2711,1173.49
+214,Boots,Footwear,Streetwear,2937,1920.54
+215,Oversized T-Shirt,Tops,Minimalist,1630,673.33
+216,Jewellery,Accessories,Streetwear,3373,2122.38
+217,Sneakers,Footwear,Coquette,3813,1750.98
+218,Mini Skirt,Bottoms,Minimalist,2612,1255.6
+219,Denim Jacket,Outerwear,Y2K,559,308.15
+220,Baggy Jeans,Bottoms,Coquette,2560,1339.05
+221,Sneakers,Footwear,Y2K,1005,617.4
+222,Cargo Pants,Bottoms,Minimalist,1080,496.57
+223,Cargo Pants,Bottoms,Y2K,1870,1254.39
+224,Cargo Pants,Bottoms,Y2K,407,170.24
+225,Jewellery,Accessories,Coquette,1942,921.67
+226,Boots,Footwear,Korean Fashion,1379,797.23
+227,Baby Tee,Tops,Korean Fashion,2513,1398.05
+228,Baby Tee,Tops,Y2K,1431,623.53
+229,Baby Tee,Tops,Streetwear,1973,1125.23
+230,Cargo Pants,Bottoms,Minimalist,3206,1757.98
+231,Jewellery,Accessories,Korean Fashion,2577,1761.43
+232,Sneakers,Footwear,Coquette,1989,800.91
+233,Hoodie,Outerwear,Korean Fashion,3899,2573.26
+234,Boots,Footwear,Y2K,1455,751.58
+235,Baby Tee,Tops,Korean Fashion,2843,1833.11
+236,Sunglasses,Accessories,Minimalist,3201,1490.82
+237,Baby Tee,Tops,Minimalist,3360,2185.71
+238,Baby Tee,Tops,Coquette,2542,1689.7
+239,Crop Top,Tops,Korean Fashion,3242,1548.84
+240,Baggy Jeans,Bottoms,Y2K,3695,1820.58
+241,Baggy Jeans,Bottoms,Y2K,1463,938.48
+242,Crop Top,Tops,Streetwear,1232,612.53
+243,Denim Jacket,Outerwear,Coquette,2082,851.52
+244,Boots,Footwear,Coquette,1559,895.8
+245,Boots,Footwear,Y2K,2207,980.97
+246,Baby Tee,Tops,Y2K,2653,1170.99
+247,Baggy Jeans,Bottoms,Y2K,3552,1995.24
+248,Handbag,Accessories,Korean Fashion,963,573.74
+249,Boots,Footwear,Minimalist,403,179.25
+250,Cargo Pants,Bottoms,Y2K,2573,1296.78
+251,Boots,Footwear,Streetwear,3220,1601.72
+252,Sneakers,Footwear,Streetwear,3633,2448.0
+253,Boots,Footwear,Streetwear,1053,721.63
+254,Denim Jacket,Outerwear,Y2K,470,189.19
+255,Baggy Jeans,Bottoms,Korean Fashion,786,548.43
+256,Baggy Jeans,Bottoms,Korean Fashion,3271,1634.21
+257,Oversized T-Shirt,Tops,Coquette,683,401.95
+258,Hoodie,Outerwear,Minimalist,1573,943.28
+259,Baby Tee,Tops,Streetwear,648,349.53
+260,Cargo Pants,Bottoms,Y2K,1482,782.41
+261,Baby Tee,Tops,Korean Fashion,922,524.13
+262,Mini Skirt,Bottoms,Streetwear,753,307.89
+263,Cargo Pants,Bottoms,Minimalist,2724,1690.25
+264,Crop Top,Tops,Coquette,765,334.71
+265,Jewellery,Accessories,Minimalist,1931,779.08
+266,Boots,Footwear,Coquette,1318,905.09
+267,Denim Jacket,Outerwear,Coquette,3370,1394.51
+268,Cargo Pants,Bottoms,Streetwear,2200,1156.51
+269,Denim Jacket,Outerwear,Y2K,3779,2607.2
+270,Handbag,Accessories,Coquette,1762,829.87
+271,Sneakers,Footwear,Streetwear,3396,1673.34
+272,Hoodie,Outerwear,Minimalist,1831,1039.09
+273,Oversized T-Shirt,Tops,Streetwear,2077,1164.01
+274,Hoodie,Outerwear,Minimalist,3468,2094.04
+275,Mini Skirt,Bottoms,Korean Fashion,2254,1568.92
+276,Boots,Footwear,Coquette,3280,2108.29
+277,Sneakers,Footwear,Y2K,3904,1713.88
+278,Sunglasses,Accessories,Minimalist,2073,1359.25
+279,Sunglasses,Accessories,Minimalist,3635,2133.98
+280,Sneakers,Footwear,Y2K,3112,1393.84
+281,Mini Skirt,Bottoms,Y2K,460,189.04
+282,Sunglasses,Accessories,Coquette,2449,1395.16
+283,Cargo Pants,Bottoms,Coquette,1362,672.78
+284,Mini Skirt,Bottoms,Minimalist,618,304.16
+285,Sneakers,Footwear,Coquette,851,378.9
+286,Boots,Footwear,Coquette,2875,1786.74
+287,Mini Skirt,Bottoms,Streetwear,1450,830.05
+288,Oversized T-Shirt,Tops,Coquette,3102,1883.8
+289,Baby Tee,Tops,Korean Fashion,813,488.75
+290,Sneakers,Footwear,Korean Fashion,2638,1490.81
+291,Mini Skirt,Bottoms,Minimalist,1419,568.67
+292,Mini Skirt,Bottoms,Korean Fashion,1322,662.6
+293,Hoodie,Outerwear,Korean Fashion,3364,1410.97
+294,Denim Jacket,Outerwear,Minimalist,2597,1056.87
+295,Boots,Footwear,Coquette,3946,2494.82
+296,Baby Tee,Tops,Streetwear,578,262.71
+297,Denim Jacket,Outerwear,Coquette,1202,717.54
+298,Corset Top,Tops,Y2K,1411,929.79
+299,Sneakers,Footwear,Korean Fashion,1672,975.43
+300,Sneakers,Footwear,Minimalist,3773,2579.94
+301,Cargo Pants,Bottoms,Korean Fashion,3321,2055.68
+302,Sneakers,Footwear,Y2K,638,293.98
+303,Cargo Pants,Bottoms,Korean Fashion,2834,1513.4
+304,Jewellery,Accessories,Coquette,601,254.86
+305,Baby Tee,Tops,Minimalist,1258,615.6
+306,Corset Top,Tops,Minimalist,837,523.18
+307,Oversized T-Shirt,Tops,Minimalist,3519,2096.16
+308,Baby Tee,Tops,Streetwear,2980,1869.36
+309,Hoodie,Outerwear,Y2K,3355,1852.62
+310,Jewellery,Accessories,Minimalist,1565,1022.92
+311,Sunglasses,Accessories,Y2K,3951,2012.63
+312,Baby Tee,Tops,Coquette,1242,853.83
+313,Mini Skirt,Bottoms,Y2K,2570,1155.71
+314,Oversized T-Shirt,Tops,Minimalist,1080,612.83
+315,Jewellery,Accessories,Minimalist,413,223.64
+316,Handbag,Accessories,Y2K,3327,1557.07
+317,Sneakers,Footwear,Korean Fashion,2146,876.1
+318,Oversized T-Shirt,Tops,Streetwear,3818,1704.31
+319,Jewellery,Accessories,Coquette,2994,2084.88
+320,Boots,Footwear,Streetwear,3572,1558.05
+321,Boots,Footwear,Minimalist,3829,1791.99
+322,Sneakers,Footwear,Coquette,427,194.12
+323,Handbag,Accessories,Korean Fashion,3158,1947.98
+324,Denim Jacket,Outerwear,Korean Fashion,2305,1521.62
+325,Baby Tee,Tops,Coquette,1094,651.37
+326,Cargo Pants,Bottoms,Streetwear,1272,843.21
+327,Cargo Pants,Bottoms,Minimalist,1999,1150.47
+328,Jewellery,Accessories,Coquette,3525,1814.42
+329,Boots,Footwear,Y2K,2030,1217.83
+330,Boots,Footwear,Y2K,3193,1931.1
+331,Sneakers,Footwear,Coquette,1406,806.23
+332,Cargo Pants,Bottoms,Y2K,1717,715.09
+333,Boots,Footwear,Y2K,3771,1672.66
+334,Oversized T-Shirt,Tops,Coquette,438,203.79
+335,Crop Top,Tops,Streetwear,3601,1609.51
+336,Corset Top,Tops,Korean Fashion,2766,1220.04
+337,Hoodie,Outerwear,Coquette,1301,529.61
+338,Oversized T-Shirt,Tops,Y2K,2859,1837.8
+339,Crop Top,Tops,Streetwear,3913,1833.59
+340,Crop Top,Tops,Coquette,690,354.05
+341,Sunglasses,Accessories,Streetwear,3259,1587.92
+342,Baggy Jeans,Bottoms,Coquette,3953,2690.87
+343,Mini Skirt,Bottoms,Y2K,2651,1132.55
+344,Hoodie,Outerwear,Coquette,3758,1636.79
+345,Boots,Footwear,Streetwear,1462,921.96
+346,Boots,Footwear,Coquette,3903,2684.28
+347,Sneakers,Footwear,Y2K,2659,1332.39
+348,Baggy Jeans,Bottoms,Minimalist,3554,1503.02
+349,Boots,Footwear,Streetwear,3705,1591.46
+350,Sunglasses,Accessories,Korean Fashion,3532,2009.13
+351,Crop Top,Tops,Minimalist,1882,899.37
+352,Oversized T-Shirt,Tops,Minimalist,1057,494.81
+353,Corset Top,Tops,Minimalist,1609,1023.37
+354,Denim Jacket,Outerwear,Minimalist,2130,1346.05
+355,Cargo Pants,Bottoms,Y2K,1865,782.18
+356,Oversized T-Shirt,Tops,Korean Fashion,1232,515.4
+357,Sneakers,Footwear,Coquette,1880,968.73
+358,Sneakers,Footwear,Y2K,2369,1419.92
+359,Cargo Pants,Bottoms,Streetwear,2392,1185.03
+360,Handbag,Accessories,Minimalist,3578,1630.54
+361,Hoodie,Outerwear,Coquette,3841,1884.07
+362,Sneakers,Footwear,Korean Fashion,1969,817.02
+363,Mini Skirt,Bottoms,Minimalist,1462,922.78
+364,Sunglasses,Accessories,Streetwear,1003,670.06
+365,Jewellery,Accessories,Y2K,3814,1869.15
+366,Boots,Footwear,Y2K,2154,1023.58
+367,Boots,Footwear,Minimalist,3197,1477.21
+368,Corset Top,Tops,Korean Fashion,1784,825.05
+369,Boots,Footwear,Coquette,2109,1281.19
+370,Handbag,Accessories,Minimalist,1291,862.3
+371,Sunglasses,Accessories,Y2K,2886,1199.52
+372,Denim Jacket,Outerwear,Streetwear,2821,1703.4
+373,Crop Top,Tops,Streetwear,3594,1837.09
+374,Hoodie,Outerwear,Korean Fashion,1819,1157.72
+375,Handbag,Accessories,Minimalist,2341,1076.87
+376,Crop Top,Tops,Minimalist,2840,1863.4
+377,Hoodie,Outerwear,Coquette,1686,771.44
+378,Boots,Footwear,Korean Fashion,635,394.35
+379,Sunglasses,Accessories,Coquette,2446,1499.9
+380,Hoodie,Outerwear,Korean Fashion,2186,1432.18
+381,Corset Top,Tops,Coquette,3803,2412.54
+382,Cargo Pants,Bottoms,Minimalist,2352,1089.02
+383,Mini Skirt,Bottoms,Y2K,3383,1562.52
+384,Cargo Pants,Bottoms,Y2K,3034,1347.6
+385,Baby Tee,Tops,Coquette,3822,2061.73
+386,Boots,Footwear,Minimalist,2884,1258.02
+387,Oversized T-Shirt,Tops,Coquette,1072,447.2
+388,Baggy Jeans,Bottoms,Coquette,2623,1341.89
+389,Denim Jacket,Outerwear,Y2K,2762,1563.4
+390,Hoodie,Outerwear,Korean Fashion,823,535.5
+391,Corset Top,Tops,Streetwear,2793,1834.84
+392,Cargo Pants,Bottoms,Korean Fashion,1137,709.56
+393,Handbag,Accessories,Coquette,790,552.26
+394,Baggy Jeans,Bottoms,Y2K,2027,974.16
+395,Oversized T-Shirt,Tops,Y2K,2636,1074.39
+396,Boots,Footwear,Streetwear,3509,1423.95
+397,Oversized T-Shirt,Tops,Y2K,1193,636.7
+398,Hoodie,Outerwear,Streetwear,533,259.76
+399,Cargo Pants,Bottoms,Streetwear,2091,1360.28
+400,Denim Jacket,Outerwear,Y2K,1942,1113.29
+401,Sneakers,Footwear,Minimalist,2705,1308.11
+402,Sneakers,Footwear,Streetwear,2673,1073.47
+403,Handbag,Accessories,Coquette,3435,1783.83
+404,Hoodie,Outerwear,Korean Fashion,1039,690.2
+405,Jewellery,Accessories,Korean Fashion,1730,748.43
+406,Baggy Jeans,Bottoms,Minimalist,2875,1343.95
+407,Mini Skirt,Bottoms,Y2K,1137,639.31
+408,Baggy Jeans,Bottoms,Streetwear,881,569.72
+409,Hoodie,Outerwear,Korean Fashion,1621,1122.51
+410,Sneakers,Footwear,Minimalist,912,592.01
+411,Boots,Footwear,Streetwear,3044,1519.99
+412,Sneakers,Footwear,Coquette,2663,1580.11
+413,Baggy Jeans,Bottoms,Korean Fashion,2402,1151.6
+414,Hoodie,Outerwear,Korean Fashion,2253,1389.73
+415,Sunglasses,Accessories,Minimalist,1633,1052.99
+416,Boots,Footwear,Y2K,3485,1825.56
+417,Cargo Pants,Bottoms,Y2K,2633,1061.28
+418,Handbag,Accessories,Streetwear,2836,1173.93
+419,Crop Top,Tops,Coquette,3580,2318.35
+420,Baggy Jeans,Bottoms,Korean Fashion,532,257.41
+421,Handbag,Accessories,Streetwear,2794,1306.34
+422,Hoodie,Outerwear,Y2K,1411,651.72
+423,Cargo Pants,Bottoms,Streetwear,1863,782.78
+424,Denim Jacket,Outerwear,Y2K,1808,1186.14
+425,Corset Top,Tops,Y2K,1781,863.97
+426,Mini Skirt,Bottoms,Korean Fashion,2778,1531.48
+427,Sunglasses,Accessories,Korean Fashion,3246,2061.24
+428,Cargo Pants,Bottoms,Coquette,1188,787.1
+429,Mini Skirt,Bottoms,Streetwear,1067,616.33
+430,Baby Tee,Tops,Korean Fashion,1819,1035.56
+431,Cargo Pants,Bottoms,Coquette,916,594.94
+432,Hoodie,Outerwear,Y2K,1061,704.41
+433,Boots,Footwear,Coquette,3476,2014.46
+434,Jewellery,Accessories,Y2K,2917,1283.97
+435,Corset Top,Tops,Minimalist,1393,961.3
+436,Cargo Pants,Bottoms,Korean Fashion,2369,1274.37
+437,Denim Jacket,Outerwear,Y2K,1054,442.33
+438,Sneakers,Footwear,Coquette,2837,1794.3
+439,Corset Top,Tops,Y2K,2234,1122.74
+440,Handbag,Accessories,Y2K,1139,590.75
+441,Cargo Pants,Bottoms,Minimalist,2371,1213.27
+442,Mini Skirt,Bottoms,Minimalist,3900,2672.43
+443,Hoodie,Outerwear,Minimalist,3134,2055.63
+444,Denim Jacket,Outerwear,Streetwear,820,548.74
+445,Oversized T-Shirt,Tops,Streetwear,892,476.84
+446,Baby Tee,Tops,Korean Fashion,2738,1582.37
+447,Denim Jacket,Outerwear,Y2K,3981,1756.53
+448,Cargo Pants,Bottoms,Coquette,3287,1419.22
+449,Mini Skirt,Bottoms,Y2K,1851,745.92
+450,Hoodie,Outerwear,Y2K,3347,2113.86
+451,Jewellery,Accessories,Y2K,829,406.09
+452,Sunglasses,Accessories,Minimalist,2386,1611.02
+453,Mini Skirt,Bottoms,Streetwear,2308,1342.42
+454,Denim Jacket,Outerwear,Y2K,3921,1722.84
+455,Jewellery,Accessories,Coquette,1366,836.62
+456,Hoodie,Outerwear,Y2K,2818,1279.65
+457,Denim Jacket,Outerwear,Minimalist,2416,996.44
+458,Sneakers,Footwear,Streetwear,1254,832.89
+459,Jewellery,Accessories,Y2K,2685,1420.36
+460,Hoodie,Outerwear,Korean Fashion,1078,541.25
+461,Denim Jacket,Outerwear,Korean Fashion,1525,636.23
+462,Denim Jacket,Outerwear,Streetwear,3410,1903.42
+463,Handbag,Accessories,Minimalist,3572,1772.4
+464,Sneakers,Footwear,Y2K,2055,1308.13
+465,Sunglasses,Accessories,Korean Fashion,2028,1104.6
+466,Mini Skirt,Bottoms,Coquette,1648,1116.01
+467,Hoodie,Outerwear,Streetwear,3617,2082.24
+468,Handbag,Accessories,Coquette,1106,503.31
+469,Baby Tee,Tops,Minimalist,2583,1175.28
+470,Mini Skirt,Bottoms,Minimalist,2230,1007.14
+471,Baggy Jeans,Bottoms,Streetwear,3513,1670.73
+472,Baby Tee,Tops,Streetwear,3885,2656.29
+473,Mini Skirt,Bottoms,Korean Fashion,756,367.6
+474,Baggy Jeans,Bottoms,Korean Fashion,445,283.21
+475,Boots,Footwear,Minimalist,1096,711.79
+476,Corset Top,Tops,Coquette,2077,1079.11
+477,Hoodie,Outerwear,Streetwear,2777,1411.8
+478,Cargo Pants,Bottoms,Y2K,2353,1531.3
+479,Corset Top,Tops,Y2K,2916,1231.9
+480,Handbag,Accessories,Streetwear,1405,718.27
+481,Jewellery,Accessories,Coquette,1126,495.82
+482,Sneakers,Footwear,Streetwear,754,516.41
+483,Sneakers,Footwear,Y2K,3245,1343.54
+484,Handbag,Accessories,Y2K,2288,1248.69
+485,Denim Jacket,Outerwear,Minimalist,1549,805.59
+486,Oversized T-Shirt,Tops,Minimalist,2184,1443.83
+487,Hoodie,Outerwear,Coquette,3301,1841.02
+488,Baby Tee,Tops,Minimalist,2743,1365.11
+489,Cargo Pants,Bottoms,Minimalist,1510,795.92
+490,Sneakers,Footwear,Y2K,3910,1825.5
+491,Cargo Pants,Bottoms,Y2K,3620,1893.66
+492,Sunglasses,Accessories,Minimalist,1558,956.25
+493,Hoodie,Outerwear,Minimalist,1218,748.61
+494,Denim Jacket,Outerwear,Streetwear,3745,1821.24
+495,Sneakers,Footwear,Minimalist,2299,1243.67
+496,Sunglasses,Accessories,Y2K,2351,1611.16
+497,Sneakers,Footwear,Coquette,3635,1727.72
+498,Baggy Jeans,Bottoms,Minimalist,583,376.41
+499,Oversized T-Shirt,Tops,Y2K,1741,1144.72
+500,Jewellery,Accessories,Y2K,2206,895.49
