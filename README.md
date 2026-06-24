@@ -1,92 +1,98 @@
+# 👗 Gen Z Fashion E-commerce Analytics
 
+## 📌 Project Overview
 
-# Gen Z Fashion E-commerce Analytics
+This project demonstrates an end-to-end Data Analytics workflow for a fictional Gen Z fashion e-commerce business.
 
-## Overview
+The project covers the complete analytics lifecycle:
 
-An end-to-end Data Analytics project built to analyze sales performance for a Gen Z fashion e-commerce business.
-
-The project covers the complete analytics workflow:
-
-- Data Generation using Python
-- Database Design using MySQL
-- SQL-based Business Analysis
-- Excel Reporting and KPI Tracking
-- Customer and Product Insights
+* Data generation using Python
+* Database design using MySQL
+* Business analysis using SQL
+* KPI reporting using Excel
 
 ---
 
-## Tech Stack
+## 🎯 Business Objective
 
-- Python
-- MySQL
-- SQL
-- Excel
+Analyze sales data to answer key business questions such as:
 
----
-
-## Dataset
-
-The project uses synthetic e-commerce data consisting of:
-
-- 5,000 Customers
-- 500 Products
-- 50,000 Orders
-
-### Tables
-
-#### Customers
-- customer_id
-- age
-- gender
-- city
-- customer_type
-
-#### Products
-- product_id
-- product_name
-- category
-- style
-- price
-- cost_price
-
-#### Orders
-- order_id
-- customer_id
-- product_id
-- order_date
-- quantity
-- discount
-- payment_mode
+* Which products generate the highest revenue?
+* Which fashion styles are most popular?
+* Which cities contribute the highest sales?
+* Which customer segments spend the most?
+* How do revenue and profit change over time?
 
 ---
 
-## SQL Analysis Performed
+## 🛠️ Tech Stack
 
-- Data Validation
-- Sales KPI Analysis
-- Revenue Analysis
-- Customer Segmentation
-- Product Performance Analysis
-- City-wise Revenue Analysis
-- Customer Lifetime Value (CLV)
-- Window Functions
-- CTEs
-- Ranking Functions
+* Python
+* MySQL
+* SQL
+* Microsoft Excel
+* Git & GitHub
 
 ---
 
-## Key Insights
+## 📊 Dataset
 
-- Identified top-performing products by revenue and units sold
-- Analyzed Gen Z fashion trends including Y2K and Streetwear
-- Evaluated customer purchasing behavior
-- Ranked cities based on revenue contribution
-- Measured profit margins and revenue growth trends
+The project contains:
+
+* 5,000 Customers
+* 500 Products
+* 50,000 Orders
 
 ---
 
-## Project Structure
+## 📂 Database Tables
+
+### Customers
+
+* customer_id
+* age
+* gender
+* city
+* customer_type
+
+### Products
+
+* product_id
+* product_name
+* category
+* style
+* price
+* cost_price
+
+### Orders
+
+* order_id
+* customer_id
+* product_id
+* order_date
+* quantity
+* discount
+* payment_mode
+
+---
+
+## 📈 SQL Analysis
+
+The project includes:
+
+* Data Validation
+* Sales KPI Analysis
+* Fashion Trend Analysis
+* Revenue Analysis
+* Customer Segmentation
+* Product Performance Analysis
+* Window Functions
+* CTEs
+* Ranking Functions
+
+---
+
+## 📁 Project Structure
 
 ```text
 GenZ-Fashion-Ecommerce-Analytics
@@ -95,45 +101,28 @@ data/
 scripts/
 sql/
 Excel/
+Reports/
 
 README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Database Schema
-
-![ER Diagram](Reports/ER_Diagram.png)
+requirements.txt
+```
 
 ---
 
-## Project Screenshots
+## 📌 Key Insights
 
-### KPI Dashboard
+* Identified top-selling products and categories
+* Analyzed Y2K, Streetwear, and Korean Fashion trends
+* Ranked cities by revenue contribution
+* Measured customer lifetime value (CLV)
+* Built revenue, profit, and order KPIs
 
-![KPI Dashboard](Reports/kpi_dashboard.png)
+---
 
-### Product Analysis
+## 👩‍💻 Author
 
-![Product Analysis](Reports/product_analysis.png)
+**Shalini Sahu**
 
-### City Analysis
-
-![City Analysis](Reports/city_analysis.png)
-
-
-
+Aspiring Data Analyst
 
 
