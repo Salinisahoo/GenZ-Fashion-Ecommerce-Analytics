@@ -1,8 +1,18 @@
-# 👗 Gen Z Fashion E-commerce Analytics
+#  Gen Z Fashion E-commerce Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
-This project demonstrates an end-to-end Data Analytics workflow for a fictional Gen Z fashion e-commerce business.
+An end-to-end data analytics project analyzing 50,000+ fashion e-commerce transactions using Microsoft Excel.
+
+The project focuses on sales performance, customer behavior, product trends, payment preferences, and executive-level business insights through an interactive dashboard.
+
+
+
+##  Executive Dashboard
+
+Interactive Executive Dashboard built in Microsoft Excel.
+
+![Dashboard](Reports/dashboard_preview.png)
 
 The project covers the complete analytics lifecycle:
 
@@ -13,19 +23,47 @@ The project covers the complete analytics lifecycle:
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
-Analyze sales data to answer key business questions such as:
+- Analyze overall sales performance
+- Identify top-performing product categories
+- Understand customer purchasing behavior
+- Compare city-wise revenue
+- Evaluate preferred payment methods
+- Generate business insights for management
 
-* Which products generate the highest revenue?
-* Which fashion styles are most popular?
-* Which cities contribute the highest sales?
-* Which customer segments spend the most?
-* How do revenue and profit change over time?
+  ## Dashboard Features
+
+### Executive KPIs
+
+- Total Revenue
+- Total Orders
+- Unique Customers
+- Average Order Value
+- Total Profit
+- Business Health Score
+
+### Interactive Visualizations
+
+- Revenue by Category
+- Revenue by City
+- Payment Mode Analysis
+- Top Products Analysis
+- Business Insights & Recommendations
+
+  ## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Cleaning
+- Business Intelligence
+- Data Visualization
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * MySQL
@@ -35,7 +73,7 @@ Analyze sales data to answer key business questions such as:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project contains:
 
@@ -45,7 +83,7 @@ The project contains:
 
 ---
 
-## 📂 Database Tables
+## Database Tables
 
 ### Customers
 
@@ -76,7 +114,7 @@ The project contains:
 
 ---
 
-## 📈 SQL Analysis
+## SQL Analysis
 
 The project includes:
 
@@ -92,7 +130,7 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 GenZ-Fashion-Ecommerce-Analytics
@@ -109,7 +147,7 @@ requirements.txt
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 * Identified top-selling products and categories
 * Analyzed Y2K, Streetwear, and Korean Fashion trends
@@ -130,9 +168,37 @@ requirements.txt
 - Y2K fashion emerged as the top-performing style.
 - Mumbai and Bangalore were the highest-revenue cities.
 - The top 10 products accounted for a significant share of total sales.
+
+
+
+
+## Repository Structure
+
+```text
+GenZ-Fashion-Ecommerce-Analytics
+│
+├── Excel
+│   └── Fashion_Sales_Analysis_Dashboard.xlsx
+│
+├── Reports
+│   ├── dashboard_preview.png
+│   ├── city_analysis.png
+│   ├── product_analysis.png
+│   └── ER_Diagram.png
+│
+├── data
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── products.csv
+│   └── data_dictionary.md
+│
+├── scripts
+│
+└── README.md
+```
   
 
-## 👩‍💻 Author
+## Author
 
 **Shalini Sahu**
 
